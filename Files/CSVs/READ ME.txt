@@ -1,0 +1,17 @@
+
+Read Me
+========================================================================================
+The python code used to extract the RRID keys into the CSV files have been provided with 
+the same file name except the extension. 
+
+Example:
+
+ ____________________________________________________________________________________________________________________
+| Code                                                    |  Results                                                 |
+|_ _______________________________________________________|__________________________________________________________|
+| _2.Journal_xml_SCR_RRID_with_article_title_Code.py      | _2.Journal_xml_SCR_RRID_with_article_title.csv           |
+| _3.Journal_article_title_resource_count_Code.py         | _3.Journal_article_title_resource_count.csv              |
+| _4.Popular softwares citation count in journals_Code.py | _4.Popular softwares citation count in journals.csv ==>  |
+|_________________________________________________________|__________________________________________________________|
+
+
