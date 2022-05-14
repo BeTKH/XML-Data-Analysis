@@ -49,4 +49,5 @@ There are different kinds of digital identifiers that are commonly used in the s
 
     3.5. Summary of Results and Conclusion
 
+[Link to view the project](https://htmlpreview.github.io/?https://github.com/BeTKH/Data-Mining-and-Analysis-Scientific-Publications/blob/main/html/RRID%20Analysis%20Final%20Paper.html)
 
