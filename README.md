@@ -6,5 +6,7 @@ There are different kinds of digital identifiers that are commonly used in the s
 [View the project](https://htmlpreview.github.io/?https://github.com/BeTKH/Data-Mining-and-Analysis-Scientific-Publications/blob/main/html/RRID%20Analysis%20Final%20Paper.html)
 
 
+#### Check out my other projects
+[View the project](https://sites.google.com/view/bekaluetadesse/projects)
 
 
