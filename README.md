@@ -1,11 +1,31 @@
-# RRID Analysis
-***
+# XML Data Analysis using RRID Digital Identifiers 
 
-There are different kinds of digital identifiers that are commonly used in the scientific literature to cite research resources. In this project, literature reveiew of various types of digital identifiers and analysis of research resources in the scientific publications has been done using [Research resource Identifiers](https://en.wikipedia.org/wiki/SciCrunch), specific types of digital identifiers used to refer to reserch resources. 
+This project is about evaluating how effective research resource identifiers (RRIDs) are. Reserch resource identifiers (RRIDs) are digital identifiers that are introduced by Resource Identification Initiative (RII) in 2014. 
+
+RRIDs were designed by RII to be globally unique and persistent identifiers that help to better identify and track sources in the scientific literature and overcome reproducibility problems. RRIDs work similar to DOIs in principle but have a special pattern: `RRID:xx_xxxxxxxxx`. They are specifically used to identify research ingredients in the biomedical fileds from the Sci-crunch database. 
+
+
+# Dataset :
+
+- More than 3.2 Million XML files that are retrieved from PubMed and PLOs Journals are analized to extract insights about RRID usage patterns and effectiveness.
+
+
+## Implementation Steps 
+- RRID Patterns are expressed interms of regular expression patterns
+- Parsed XML files to extract all instances of RRIDs in research papers and corrosponding resources
+- WebScraping to cross reference the extracted identifiers at the Sci-Crunch database using beautiful soup
+- Categorical analysis of the most cited resources
+- Temporal analysis to see popularity of RRIDs over the years
+
+
+## Some Visuals from the analysis 
+
+![Model Comparison](Reg.png)
+
+
 
 View this project's Jupyter notebook [here.](https://htmlpreview.github.io/?https://github.com/BeTKH/Data-Mining-and-Analysis-Scientific-Publications/blob/main/html/RRID%20Analysis%20Final%20Paper.html)
 
 
-Check out my other projects [here.](https://sites.google.com/view/bekaluetadesse/projects)
 
 
