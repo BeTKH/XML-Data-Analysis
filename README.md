@@ -18,13 +18,48 @@ RRIDs were designed by RII to be globally unique and persistent identifiers that
 - Temporal analysis to see popularity of RRIDs over the years
 
 
+## Insights :
+
+- `152,598` RRID citations have been found in 660 PubMed Journals.
+- Most researchers used RRID identifiers to cite resources in the correct syntax most of the time.
+- Most research resources (about 90%) in the pubMed journal are Antibodies (AB) & software/Database resources.
+- RRIDs use for citation of resources has become popular over the past 5 years nearly in all 660 PubMed journals.
+- Popular software tools are statistical analysis and image processing software, like `GraphPad Prism`, `ImageJ`,`Matlab`, `Fiji` and `R`. 
+
+
 ## Some Visuals from the analysis 
+
+
+##### RRID Regular Expression Pattern:
 
 ![Model Comparison](Reg.png)
 
 
+##### RRIDs in a research paper:
+
+![Model Comparison](pp.png)
+
+
+##### Various types of resources in Reserch Journals:
+
+![Model Comparison](pie.png)
+
+##### Top10 Journals by RRID use:
+
+![Model Comparison](top10.png)
+
+
+##### RRID Usage pattern over years:
+
+![Model Comparison](time.png)
+
+
 
 View this project's Jupyter notebook [here.](https://htmlpreview.github.io/?https://github.com/BeTKH/Data-Mining-and-Analysis-Scientific-Publications/blob/main/html/RRID%20Analysis%20Final%20Paper.html)
+
+Visit [Project Site](https://sites.google.com/view/bekaluetadesse/projects/project1)
+
+
 
 
 
